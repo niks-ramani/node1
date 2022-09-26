@@ -15,6 +15,6 @@ int main()
 	if(k==n)
 	printf("\nyes %d is perfect number",k);
 	else
-	printf("\n%d is imperfect",n);
+	printf("\n%d is imperfec",n);
 	return 0;
 }
