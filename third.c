@@ -13,7 +13,7 @@ int main()
 		}
 	}
 	if(k==n)
-	printf("\nyes %d is perfect",k);
+	printf("\nyes %d is ",k);
 	else
 	printf("\n%d is imper",n);
 	return 0;
